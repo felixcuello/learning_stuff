@@ -52,3 +52,10 @@ MIT Introduction to Algorithms
 - **COMPUTER SCIENCE**
     - [Lecture 23: Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8)
     - [Lecture 24: Topics in Algorithms Research](https://www.youtube.com/watch?v=dU40AvBURDQ)
+
+
+Papers
+-----------------------------------------------------------------------------------------------------------
+Here's some of the papers I would like to read
+
+- [Understanding the Limitations of Mathematical Reasoning in Large Language Models](./papers/2410.05229v1.pdf)
