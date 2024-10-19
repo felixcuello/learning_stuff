@@ -5,7 +5,7 @@ Here I am going to write down random stuff I would like to learn, write or just 
 would like to read / learn / do at some point in the future
 
 Algorithms
--------------------------------------------------------------------------------------
+======================================================================================================================
 
 I strongly believe that algorithms is a crucial part of programming, and learning them is a curcial parat for
 any developer. I suggest to other students at my university that we need to learn and practice algorithms on
@@ -54,8 +54,15 @@ MIT Introduction to Algorithms
     - [Lecture 24: Topics in Algorithms Research](https://www.youtube.com/watch?v=dU40AvBURDQ)
 
 
+Books
+======================================================================================================================
+
+- Cracking the Coding Interview
+- Guide to Competitive Programming
+
+
 Papers
------------------------------------------------------------------------------------------------------------
+======================================================================================================================
 Here's some of the papers I would like to read
 
 - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](./papers/2410.05229v1.pdf)
