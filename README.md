@@ -19,6 +19,10 @@ find this repo and want to contribute, please feel free to do it.
 I have marked with √ the lectures I particularly want to watch and learn, but there are some others that I live
 here because of my OCD.
 
+## Competitive Programming
+- [YouTube - 15 patterns for coding interviews and CP](https://www.youtube.com/watch?v=DjYZk8nrXVY)
+
+
 MIT Introduction to Algorithms
 -------------------------------------------------------------------------------------
 
